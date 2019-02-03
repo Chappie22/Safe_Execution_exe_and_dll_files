@@ -1,1 +1,1 @@
-# Safe_Execution_exe_and_dll_files
+The program, which allows to run the other programm with permissions given.
