@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28527.54
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ITVDN HW AppDomain and Services", "ITVDN HW AppDomain and Services\ITVDN HW AppDomain and Services.csproj", "{0EDB9C0A-ECF3-48FA-ACC5-67926FA576F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EDB9C0A-ECF3-48FA-ACC5-67926FA576F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EDB9C0A-ECF3-48FA-ACC5-67926FA576F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EDB9C0A-ECF3-48FA-ACC5-67926FA576F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EDB9C0A-ECF3-48FA-ACC5-67926FA576F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9A31CF99-3706-420B-9402-B44A09AA3612}
+	EndGlobalSection
+EndGlobal

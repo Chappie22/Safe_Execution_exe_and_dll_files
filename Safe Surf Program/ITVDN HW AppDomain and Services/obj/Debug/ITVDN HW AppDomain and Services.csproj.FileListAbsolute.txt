@@ -1,0 +1,16 @@
+C:\Users\Админ\Desktop\ITVDN HW AppDomain and Services\ITVDN HW AppDomain and Services\obj\Debug\ITVDN_HW_AppDomain_and_Services.Form1.resources
+C:\Users\Админ\Desktop\ITVDN HW AppDomain and Services\ITVDN HW AppDomain and Services\obj\Debug\ITVDN_HW_AppDomain_and_Services.Properties.Resources.resources
+C:\Users\Админ\Desktop\ITVDN HW AppDomain and Services\ITVDN HW AppDomain and Services\obj\Debug\ITVDN HW AppDomain and Services.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\ITVDN HW AppDomain and Services\ITVDN HW AppDomain and Services\obj\Debug\ITVDN HW AppDomain and Services.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\ITVDN HW AppDomain and Services\ITVDN HW AppDomain and Services\bin\Debug\ITVDN HW AppDomain and Services.exe.config
+C:\Users\Админ\Desktop\ITVDN HW AppDomain and Services\ITVDN HW AppDomain and Services\bin\Debug\ITVDN HW AppDomain and Services.exe
+C:\Users\Админ\Desktop\ITVDN HW AppDomain and Services\ITVDN HW AppDomain and Services\bin\Debug\ITVDN HW AppDomain and Services.pdb
+C:\Users\Админ\Desktop\ITVDN HW AppDomain and Services\ITVDN HW AppDomain and Services\obj\Debug\ITVDN HW AppDomain and Services.exe
+C:\Users\Админ\Desktop\ITVDN HW AppDomain and Services\ITVDN HW AppDomain and Services\obj\Debug\ITVDN HW AppDomain and Services.pdb
+C:\Users\Админ\Desktop\ITVDN HW AppDomain and Services\ITVDN HW AppDomain and Services\obj\Debug\ITVDN HW AppDomain and Services.csprojAssemblyReference.cache
+C:\Shared Folder\WPF .NET\ITVDN HW AppDomain and Services\ITVDN HW AppDomain and Services\obj\Debug\ITVDN HW AppDomain and Services.csprojAssemblyReference.cache
+C:\Shared Folder\WPF .NET\ITVDN HW AppDomain and Services\ITVDN HW AppDomain and Services\obj\Debug\ITVDN_HW_AppDomain_and_Services.Form1.resources
+C:\Shared Folder\WPF .NET\ITVDN HW AppDomain and Services\ITVDN HW AppDomain and Services\obj\Debug\ITVDN_HW_AppDomain_and_Services.Properties.Resources.resources
+C:\Shared Folder\WPF .NET\ITVDN HW AppDomain and Services\ITVDN HW AppDomain and Services\obj\Debug\ITVDN HW AppDomain and Services.csproj.GenerateResource.cache
+C:\Shared Folder\WPF .NET\ITVDN HW AppDomain and Services\ITVDN HW AppDomain and Services\obj\Debug\ITVDN HW AppDomain and Services.exe
+C:\Shared Folder\WPF .NET\ITVDN HW AppDomain and Services\ITVDN HW AppDomain and Services\obj\Debug\ITVDN HW AppDomain and Services.pdb
